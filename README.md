@@ -3,7 +3,7 @@
 
 Social media is a phenomenon that has recently expanded throughout high-speed internet. The extensive spread of fake news has a serious negative impacts on individuals and society. Thus, fake news detection on social media texts has recently become a pressing research topic to find effective solution to deter sprawling fake news. 
 
-Discriminating fake news content from its legitimate counterpart present unique characteristics and challenges because fake news contents are always limited to short text for sharing information and opinions. However, statistical approaches to battle with fake news has been dramatically limited by the lack of labeled benchmark datasets. However, in this research project, we utilized the LIAR dataset with rich meta data to build a fake news classification model that outperformed the model mentioned in the paper [William Wang et al., 2017](https://arxiv.org/abs/1705.00648) where the accuracy of the proposed model is around 27% accuracy on the test set.
+Discriminating fake news content from its legitimate counterpart present unique characteristics and challenges because fake news contents are always limited to short text for sharing information and opinions. However, statistical approaches to battle with fake news has been dramatically limited by the lack of labeled benchmark datasets. However, in this research project, we utilized the LIAR dataset with rich meta data to build a fake news classification model that outperformed the model mentioned in the paper [William Wang et al., 2017](https://arxiv.org/abs/1705.00648) where the accuracy of the proposed model is around 26% accuracy on the test set.
 
 
 ### Hybird CNN for fake news classification
