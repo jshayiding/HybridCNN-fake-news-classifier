@@ -22,6 +22,6 @@ We are aiming to extract more discriminative linguistic features for fake news c
   
   ### Result
 
-![screenshot1](output/accuracy_cnn_improved_v1.4.3.best.png)
+![screenshot1](output/meged_CLSTM.png)
 
 ![screenshot2](output/accuracy_clstm_improved_v1.4.png)
