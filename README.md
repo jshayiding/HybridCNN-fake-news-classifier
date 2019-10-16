@@ -8,8 +8,9 @@ Automatic fake news detection is a challenging problem in deception detection, a
 
 In this research project, we aim to learn complementary linguistic features from fake news dataset in order to identify fake news content more efficiently from legitimate counterparts. In this project, we have introduced hybrid convolutional models including C-LSTM, CNN, RCNN model for identifying fake news. Our result shows that C-LSTM model rendered 28% accuracy which outperformed than baseline model. Here is breif summary of HybridCNN performance:
 
-  LSTM based model where news text was fed to the LSTM and the output was added to a condensed representation of the Meta Data (28% test  accuracy)
-  CNN based model with 128 filters each of size 2,5 and 8. Meta data was added in a condensed form just like the LSTM model (30% test accuracy)
+  > LSTM based model where news text was fed to the LSTM and the output was added to a condensed representation of the Meta Data (28% test  accuracy)
+  > CNN based model with 128 filters each of size 2,5 and 8. Meta data was added in a condensed form just like the LSTM model (30% test accuracy)
   Extensively used Stochastic Gradient Descent and Tensorboard to visualize and develop intuition on convergence of these models. LSTM models tend to overfit easily. Dropout was used for regularization
   
   ### Result
+
