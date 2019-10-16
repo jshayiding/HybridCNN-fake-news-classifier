@@ -14,3 +14,6 @@ In this research project, we aim to learn complementary linguistic features from
   
   ### Result
 
+![screenshot1](output/accuracy_cnn_improved_v1.4.3.best.png)
+
+![screenshot2](output/accuracy_clstm_improved_v1.4.png)
