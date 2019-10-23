@@ -18,7 +18,7 @@ In this research project, we aim to learn complementary linguistic features from
   
 ### Hybrid CNN model Architecture
 
-We are aiming to extract more discriminative linguistic features for fake news classification, and learning comlementary linguistic features from fake news contexts requires special convolutional neural network architecture. Here is the proposed Hybrid CNN model that we introduced in this study.
+We are aiming to extract more discriminative linguistic features for fake news classification, and learning comlementary features from fake news contexts requires special convolutional neural network architecture. Here is the proposed Hybrid CNN model that we introduced in this study.
 
 ![screenshot2](output/CNN_diag.png)
   
